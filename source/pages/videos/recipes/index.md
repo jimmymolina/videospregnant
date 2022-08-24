@@ -5,9 +5,9 @@ group: videos
 
 title: Recipes
 description: Page description
-imageCover: http://www.riversideonline.com/-/media/patients-and-visitors/healthy-you/healthy-nutrition-pregnant.ashx
-imagePreview: http://www.riversideonline.com/-/media/patients-and-visitors/healthy-you/healthy-nutrition-pregnant.ashx
-imagePreviewMini: http://www.riversideonline.com/-/media/patients-and-visitors/healthy-you/healthy-nutrition-pregnant.ashx
+imageCover: https://st.depositphotos.com/1002111/2216/i/450/depositphotos_22165159-stock-photo-pregnancy-and-cooking.jpg
+imagePreview: https://st.depositphotos.com/1002111/2216/i/450/depositphotos_22165159-stock-photo-pregnancy-and-cooking.jpg
+imagePreviewMini: https://st.depositphotos.com/1002111/2216/i/450/depositphotos_22165159-stock-photo-pregnancy-and-cooking.jpg
 pubDate: 2022-08-24 01:23:02
 keywords:
 - Recipes
